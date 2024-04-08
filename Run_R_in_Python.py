@@ -14,3 +14,4 @@ robjects.r['source']('Sen_word.R')
 return_str = robjects.r['main']()
 
 print(return_str)
+print("hi")
