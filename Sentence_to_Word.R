@@ -7,3 +7,4 @@ test.sentences <- c("This is an example sentence with periods.Tried sentence to 
 
 stringi::stri_extract_all_words(test.sentences)
 print("hi5")
+print("hello")
